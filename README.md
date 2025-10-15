@@ -1,3 +1,7 @@
+### Smal Node
+
+This fork is only for inserting a `setup.py` file and ease the automatic installation of SuperGluePtretrainedNetwork as a python package.
+
 <img src="assets/magicleap.png" width="240">
 
 ### Research @ Magic Leap (CVPR 2020, Oral)
