@@ -1,6 +1,24 @@
-### Smal Node
+### Small Note
 
-This fork is only for inserting a `setup.py` file and ease the automatic installation of SuperGluePtretrainedNetwork as a python package.
+This fork is only for inserting a `setup.py` file and ease the automatic installation of SuperGluePtretrainedNetwork as a python package. This enables the usage of this package as follows:
+
+Installation:
+
+```
+$ pip install git+<REPO_URL>
+```
+
+Usage:
+
+```
+import SuperGluePretrainedNetwork
+```
+
+or 
+
+```
+from SuperGluePretrainedNetwork import models
+```
 
 <img src="assets/magicleap.png" width="240">
 
